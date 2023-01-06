@@ -1,0 +1,1 @@
+This is an application build using Nodejs, express, MongoDb and Mongoose. It has a protected /secrets routes which requires authentication, it has a Register, login, logout, signin and signup with Google and a feature to post your secrets. I hope you find it very helpful
